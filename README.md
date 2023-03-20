@@ -1,6 +1,8 @@
 # Hi there 👋
 I'm Matsushima!
 
+I create AI, web apps, and desktop apps with Python.
+
 ## My GitHub stats
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=oiudon&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/oiudon/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiudon&layout=compact&theme=tokyonight)](https://github.com/oiudon/)
