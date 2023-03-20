@@ -5,7 +5,7 @@ I'm Matsushima!
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=oiudon&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/oiudon/)
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiudon&layout=compact&theme=tokyonight)](https://github.com/oiudon/)
 
-## Open Badge
+## Open Badges
 <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/125285302/226229818-a108fefa-02ba-4918-8c36-664cf4fa768c.png" width=200px>
   <img src="https://user-images.githubusercontent.com/125285302/226230754-275e0f47-8dc4-4f46-a72f-8f748891709e.png" width=200px>
